@@ -1,4 +1,4 @@
-### Simulation of simple queuing models
+## Simulation of simple queuing models
 
 Basic queue models are simulated to analyze the effects of model parameters,
 e.g. arrival and service rates. Different models for handling requests are defined and implemented
