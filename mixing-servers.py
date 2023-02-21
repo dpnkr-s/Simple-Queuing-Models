@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Management and Content Delivery for Smart Networks
 
 Simulation of Simple Queuing Models
 
