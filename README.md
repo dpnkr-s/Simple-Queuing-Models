@@ -43,6 +43,6 @@ In order to decide, towards which queue the arriving clients must be switched to
 
 An example chart from simulation result is shown below.
 
-<img width="420" alt="image" src="https://user-images.githubusercontent.com/25234772/220386246-fe0ac18c-c32c-47f6-99d8-c8cfb7b2d0f4.png">
+<img width="620" alt="image" src="https://user-images.githubusercontent.com/25234772/220386246-fe0ac18c-c32c-47f6-99d8-c8cfb7b2d0f4.png">
 
 
